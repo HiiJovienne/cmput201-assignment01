@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+START
+--------------------------------------------------------------------------------
+Testcases passed. Marking on 50%-100%
+
+Markcases:
+--------------------------------------------------------------------------------
+1-1-list.txt: PASS
+1-2-list.txt: PASS
+1-3-list.txt: PASS
+1-4-list.txt: PASS
+1-5-list.txt: PASS
+1-6-list.txt: PASS
+1-7-list.txt: PASS
+1-8-list.txt: PASS
+1-9-list.txt: PASS
+1-10-list.txt: PASS
+1-11-list.txt: PASS
+1-12-list.txt: PASS
+1-13-list.txt: PASS
+1-14-list.txt: PASS
+1-15-list.txt: PASS
+1-16-list.txt: PASS
+1-17-list.txt: PASS
+1-18-list.txt: PASS
+1-19-list.txt: PASS
+1-20-list.txt: PASS
+--------------------------------------------------------------------------------
+END: Final grade: 20.0/20 = 100.0%
+--------------------------------------------------------------------------------
